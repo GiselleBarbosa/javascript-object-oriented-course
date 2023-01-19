@@ -7,6 +7,8 @@ function Carro(marca, modelo) {
 }
 
 let carro1 = new Carro('Volkswagem', 'Gol');
+
+
 console.log(carro1.marca, carro1.modelo);
 console.log(carro1.ligar());
 

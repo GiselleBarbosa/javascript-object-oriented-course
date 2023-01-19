@@ -14,19 +14,16 @@ function criarCarro(marca, modelo, arCondicionado, portas) {
           return `NÃO possui ar condicionado`;
       }
     }
-  };
+  };  
 
   let kwid = criarCarro('Renault', 'Kwid', true, 4);
-
   console.log(kwid.marca);
   console.log(kwid.modelo);
   console.log(kwid.portas);
   console.log(kwid.ligarCarro());
   console.log(kwid.checaArCondicionado());
 
-
   let polo = criarCarro('Volkswagem', 'Polo', false, 4);
-
   console.log(polo.marca);
   console.log(polo.modelo);
   console.log(polo.portas);
