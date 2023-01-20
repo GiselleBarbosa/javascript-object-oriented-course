@@ -2,14 +2,17 @@ let game = {
   name: 'Final Fantasy X',
   players: 1,
   onlineMode: false,
-  "classification": 'allPublics',
-  'avaliableOnPlaystation5': false
+  "classification": 'Livre',
+  'avaliableOnPs5': false
 };
 
-const verify = 'players';
+const verify = 'classification';
 
-console.log(game[verify]);
+// não consegue pegar o valor da propriedade 'classification'
 console.log(game.verify);
+
+// consegue pegar desta forma utilizando []
+console.log(game[verify]); //  'Livre'
 
 
 

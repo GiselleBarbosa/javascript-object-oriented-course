@@ -9,7 +9,6 @@ console.log(maquina.material);
 console.log('Equipamentos: ', maquina.equipamentos[0]);
 
 
-
 for(let i = 0; i < maquina.equipamentos.length; i ++){
   console.log(maquina.equipamentos[i]);
 }

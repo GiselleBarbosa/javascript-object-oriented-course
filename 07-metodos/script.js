@@ -28,6 +28,8 @@ console.log(pessoa.idade);
 console.log("Metodo falar()", pessoa.falar());
 console.log(pessoa.podeDirigir());
 
+
+
 let calculadora = {
   numeros: 0,
   somar: function (a, b) {

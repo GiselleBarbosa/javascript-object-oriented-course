@@ -6,5 +6,7 @@ const gato = {
     return "miauu ... Miauuuuuuu                               S       = ^.^ ="; 
   }
 };
+
+// pegando metodos dentro de um obj
 console.log(gato.miar());
 console.log(gato);

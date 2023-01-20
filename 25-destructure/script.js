@@ -9,10 +9,9 @@ let carro = {
 // ele cria variaveis mantendo o objeto, porem agora é possivel utilizar as variaveis de forma individual
 let { marca, modelo, ano, possuiGarantia } = carro;
 
-console.log(carro.marca);
-console.log(marca);
+console.log(carro.marca); // objeto original
 
+console.log(marca); // variaveis criadas com os valores do objeto
 console.log(modelo);
 console.log(ano);
 console.log(possuiGarantia);
-
