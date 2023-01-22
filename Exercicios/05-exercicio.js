@@ -1,4 +1,4 @@
-/* Exercício 4
+/* Exercício 5
 ----------------------------------------------
 - crie um obj inimigo, com as propriedades nome e vivo (boolean iniciado como true) 
 - o metodo atirarShuriken do exercicio passado deve matar o inimigo setando a propriedade do inimigo como false
@@ -26,6 +26,6 @@ let naruto = new Ninja('Naruto', 1);
 let orochimaru = new Inimigo('Orochimaru');
 
 
-naruto.atirarShuriken(orochimaru)
+naruto.atirarShuriken(orochimaru);
 
 console.log(orochimaru);
