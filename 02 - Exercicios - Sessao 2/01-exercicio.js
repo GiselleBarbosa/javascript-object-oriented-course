@@ -15,8 +15,8 @@ let person = {
   myChildren: ['Yago', 'Marcos'],
 
   childrenDetail: [
-    { name: 'Yago', age: 19 },
-    { name: 'Marcos', age: 19 }
+    { name: 'Yago', age: 18 },
+    { name: 'Marcos', age: 18 }
   ],
 
   validAgeSons() {

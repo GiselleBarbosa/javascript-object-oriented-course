@@ -8,13 +8,13 @@
 function Ninja(nome) {
   this.nome = nome;
   this.atirarShuriken = function () {
-    console.log(nome + " Atirandoo Shurikens");
+    return `O Ninja ${ nome } atirou uma shuriken`;
   };
 }
 
 let naruto = new Ninja('Naruto');
 
-naruto.atirarShuriken()
+console.log(naruto.atirarShuriken());
 
 
 

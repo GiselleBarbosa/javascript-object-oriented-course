@@ -20,7 +20,6 @@ let pessoa = {
   }
 };
 
-
 console.log(pessoa.aniversario());
 console.log(pessoa.idade);
 console.log(pessoa.aniversario());
