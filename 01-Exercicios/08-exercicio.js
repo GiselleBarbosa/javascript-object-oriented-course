@@ -1,4 +1,4 @@
-/* Exercício 7 
+/* Exercício 8
 ----------------------------------------------
 - crie um objeto que tenha caracteristicas de um caminhão e coloque em propriedades distintas
 - com destructuring, coloque essas propriedades em variaveis separadas
