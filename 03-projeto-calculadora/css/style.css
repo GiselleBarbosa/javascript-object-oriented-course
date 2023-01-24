@@ -24,11 +24,12 @@ h1 {
 /* calculadora */
 #calculator {
 	background-color: #1d293a;
-	width: 400px;
+	width: 320px;
 	height: 400px;
 	margin: 0 auto;
-	padding-top: 30px;
+	padding-top: 50px;
 	padding-bottom: 50px;
+	border-radius: 7px;
 }
 
 #screen-container {
@@ -38,6 +39,7 @@ h1 {
 	width: 258px;
 	height: 70px;
 	border: 1px solid #354357;
+	border-radius: 7px;
 	text-align: right;
 	box-sizing: border-box;
 	overflow: hidden;
@@ -79,6 +81,7 @@ h1 {
 	display: inline-block;
 	cursor: pointer;
 	transition: 0.3s;
+	border-radius: 7px;
 }
 
 .btn:hover {

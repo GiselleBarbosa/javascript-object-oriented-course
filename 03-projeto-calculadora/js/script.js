@@ -24,6 +24,32 @@ class Calculator {
     }
   }
 
+  //metodo de soma
+  sum(n1, n2) {
+    return parseFloat(n1) + parseFloat(n2);
+  }
+
+  //metodo de subtração
+  subtraction(n1, n2) {
+    return parseFloat(n1) - parseFloat(n2);
+  }
+
+  //metodo de multiplicação
+  multiplication(n1, n2) {
+    return parseFloat(n1) * parseFloat(n2);
+  }
+
+  //metodo de divisão
+  division(n1, n2) {
+    return parseFloat(n1) / parseFloat(n2);
+  }
+
+  // atualiza valores
+  refreshValues(total) {
+    this.upperValue.textContent = total;
+    this.resultValue.textContent = total;
+  }
+
   // resolve a operação
   resolution() {
 
@@ -46,8 +72,8 @@ class Calculator {
       calc.reset = 1;
     }
 
-    this.upperValue.textContent = result;
-    this.resultValue.textContent = result;
+    // atualiza os totais
+    calc.refreshValues(result);
 
   }
 
