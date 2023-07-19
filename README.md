@@ -2,8 +2,22 @@
 
 Repository with practices learned in this course
 
-#### OOP Projects
+#### Projects List
 
-- [Calculator](https://gisellebarbosa.github.io/calculator-OOP/)
-- [To do List](https://gisellebarbosa.github.io/to-do-list-OOP/)
-- [Dark Theme Mode](https://gisellebarbosa.github.io/dark-theme-example/)
+#### Calculator
+
+- [Deploy](https://gisellebarbosa.github.io/calculator-OOP/)
+
+- [Repository](https://github.com/GiselleBarbosa/calculator-OOP)
+
+#### To do List
+
+- [Deploy](https://gisellebarbosa.github.io/to-do-list-OOP/)
+
+- [Repository](https://github.com/GiselleBarbosa/to-do-list-OOP/tree/main)
+
+#### Dark Theme Mode
+
+- [Deploy](https://gisellebarbosa.github.io/dark-theme-example/)
+
+- [Repository](https://github.com/GiselleBarbosa/dark-theme-example)
