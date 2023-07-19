@@ -1,8 +1,9 @@
-#### Curso  Udemy Orientação a Objetos com JavaScript (Projetos e TypeScript)
-Repositório com práticas aprendidas neste curso
+#### Udemy Course - Orientação a Objetos com JavaScript (Projetos e TypeScript)
 
-#### Projetos feitos utilizando OOP
+Repository with practices learned in this course
 
-- Calculadora
-- To do List
+#### OOP Projects
 
+- [Calculator](https://gisellebarbosa.github.io/calculator-OOP/)
+- [To do List](https://gisellebarbosa.github.io/to-do-list-OOP/)
+- [Dark Theme Mode](https://gisellebarbosa.github.io/dark-theme-example/)
