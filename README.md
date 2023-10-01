@@ -2,22 +2,17 @@
 
 Repository with practices learned in this course
 
-#### Projects List
-
 #### Calculator
 
-- [Deploy](https://gisellebarbosa.github.io/calculator-OOP/)
-
-- [Repository](https://github.com/GiselleBarbosa/calculator-OOP)
-
+- [Deploy](https://gisellebarbosa.github.io/javascript-object-oriented-calculator/)
+ / [Repository](https://github.com/GiselleBarbosa/javascript-object-oriented-calculator/)
+  
 #### To do List
 
-- [Deploy](https://gisellebarbosa.github.io/to-do-list-OOP/)
-
-- [Repository](https://github.com/GiselleBarbosa/to-do-list-OOP/tree/main)
+- [Deploy](https://gisellebarbosa.github.io/javascript-to-do-list/)
+/ [Repository](https://github.com/GiselleBarbosa/javascript-to-do-list)
 
 #### Dark Theme Mode
 
-- [Deploy](https://gisellebarbosa.github.io/dark-theme-example/)
-
-- [Repository](https://github.com/GiselleBarbosa/dark-theme-example)
+- [Deploy](https://gisellebarbosa.github.io/javascript-dark-theme-example/)
+/ [Repository](https://github.com/GiselleBarbosa/javascript-dark-theme)
